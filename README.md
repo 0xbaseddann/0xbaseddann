@@ -5,3 +5,4 @@
 🍀 Looking for opportunities to work in the Web3 field and collaborate with like-minded individuals to create something amazing! </br>
 <br>
 📬 Reach me at dannweezj@gmail.com </br>
+🌐 Website Portfolio at https://dannwee.com </br>
