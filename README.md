@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m a **Computer Science Student @ NTU**
+ 🔭 I’m a **Computer Science Student @ Nanyang Technological University**
  
  🌱 Currently, my days are devoted to bringing **web projects** to life and developing **smart contracts**
 
