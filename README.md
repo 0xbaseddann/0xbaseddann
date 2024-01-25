@@ -4,17 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dann!+🧑🏻‍💻;" />
 </h1>
 
-<h3 align="center">A Passionate Software Developer && Tech Enthusiast 🇸🇬</h3>
+<h3 align="center">A Passionate Software Developer 🧑🏻‍💻</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m a **Computer Science Student @ Nanyang Technological University**
+ 🔭 I’m a **Computer Science Undergraduate at Nanyang Technological University 🇸🇬**
  
- 🌱 Currently, my days are devoted to bringing **web projects** to life and developing **smart contracts**
-
- 💬 I relish the opportunities to expand my knowledge and gain valuable insights through connections and collaborations. 
+ 🌱 Currently, my days are devoted to bringing **Web3-Blockchain & Artificial Intelligence** projects to life.
  
   ⚡ Let's connect and work together to **create something truly amazing** ☺️
  
