@@ -12,7 +12,7 @@
  
  🔭 I’m a **Computer Science Undergraduate at Nanyang Technological University 🇸🇬**
  
- 🌱 Currently, my days are devoted to bringing **Web3-Blockchain & Artificial Intelligence** projects to life.
+ 🤖 Currently, my days are devoted to bringing **Web3-Blockchain & Artificial Intelligence** projects to life ⛓️
  
   ⚡ Let's connect and work together to **create something truly amazing** ☺️
  
