@@ -7,7 +7,7 @@
 ##### Currently my days are devoted to:
 - ⛏️ Indie building products.
 - 🏄🏻‍♂️ Contributing in open source projects.
-- ✍🏼 Documenting developer guides. Check them out!
+- ✍🏼 Writing [developer guides](https://dev.dannwee.xyz/). Check them out!
  
 <p align="left">
  <h5>Connect with me:</h5>
