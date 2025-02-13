@@ -1,34 +1,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dannweeeee.dannweeeee" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dann!+🧑🏻‍💻;" />
-</h1>
+### Hi there 👋🏻 I'm Dann 🏄🏻‍♂️
 
-<h3 align="center">🧑🏻‍💻 A Passionate Full Stack Blockchain Engineer <> Indie Builder 🧑🏻‍💻</h3>
+#### Full Stack Blockchain Engineer <> Indie Developer
 
-<br/>
-
-<div align="center">
+##### Currently my days are devoted to:
+- ⛏️ Indie building products.
+- 🏄🏻‍♂️ Contributing in open source projects.
+- ✍🏼 Documenting developer guides. Check them out!
  
- 🔭 I’m a **Computer Science Undergraduate at Nanyang Technological University 🇸🇬**
- 
- 🤖 Currently, my days are devoted to bringing **Blockchain, Artificial Intelligence && Open Source** projects to life ⛓️
- 
-  ⚡ Let's connect and work together to **create something truly amazing** ☺️
- 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:dannweezj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/dannwee/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://dannwee.xyz/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+<p align="left">
+    <a href="https://dannwee.xyz" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=2963&format=png&color=000000" alt="website" height="33" width="33" /></a>
+    <a href="https://x.com/dannweeeee" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="twitter" height="33" width="33" /></a>
+    <a href="https://linkedin.com/in/dannwee" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" alt="linkedin" height="33" width="33" /></a>
+</p>
 
  <hr/>
  
