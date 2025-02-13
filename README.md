@@ -4,13 +4,13 @@
 
 ### Full Stack Blockchain Engineer <> Indie Developer
 
-##### Currently my days are devoted to:
+**Currently my days are devoted to...**
 - ⛏️ Indie building products.
 - 🏄🏻‍♂️ Contributing to open source projects.
 - ✍🏼 Writing [developer guides](https://dev.dannwee.xyz/). Check them out!
  
 <p align="left">
- <h5>Connect with me:</h5>
+ <h4>Connect with me</h4>
     <a href="https://dannwee.xyz" target="_blank" rel="noopener noreferrer">
      <img align="center" src="https://img.icons8.com/?size=100&id=2963&format=png&color=41A4F3" alt="website" height="33" width="33" />
     </a>
