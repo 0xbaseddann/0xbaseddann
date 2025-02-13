@@ -12,13 +12,13 @@
 <p align="left">
  <h5>Connect with me:</h5>
     <a href="https://dannwee.xyz" target="_blank" rel="noopener noreferrer">
-     <img align="center" src="https://img.icons8.com/?size=100&id=2963&format=png&color=000000" alt="website" height="33" width="33" />
+     <img align="center" src="https://img.icons8.com/?size=100&id=2963&format=png&color=41A4F3" alt="website" height="33" width="33" />
     </a>
     <a href="https://x.com/dannweeeee" target="_blank" rel="noopener noreferrer">
-     <img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="twitter" height="33" width="33" />
+     <img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=41A4F3" alt="twitter" height="33" width="33" />
     </a>
     <a href="https://linkedin.com/in/dannwee" target="_blank" rel="noopener noreferrer">
-     <img align="center" src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" alt="linkedin" height="33" width="33" />
+     <img align="center" src="https://img.icons8.com/?size=100&id=8808&format=png&color=41A4F3" alt="linkedin" height="33" width="33" />
     </a>
 </p>
 
