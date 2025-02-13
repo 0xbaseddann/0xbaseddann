@@ -20,8 +20,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,java,cpp,javascript,typescript,html,css,tailwind,threejs,solidity" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,react,vite,nextjs,mysql,postgres,mongodb,remix,ipfs,figma,git,docker" />
+    <img src="https://skillicons.dev/icons?i=python,c,java,cpp,javascript,typescript,html,css,tailwind,threejs,solidity,rust" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,vite,nextjs,mysql,postgres,mongodb,remix,ipfs,figma,git,docker,kubernetes" />
 </div>
 
 <br/>
