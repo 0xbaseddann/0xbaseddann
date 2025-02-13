@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dannweeeee.dannweeeee" />
 
-### Hi there 👋🏻 I'm Dann 🏄🏻‍♂️
+## Hi there 👋🏻 I'm Dann 🏄🏻‍♂️
 
-#### Full Stack Blockchain Engineer <> Indie Developer
+### Full Stack Blockchain Engineer <> Indie Developer
 
 ##### Currently my days are devoted to:
 - ⛏️ Indie building products.
