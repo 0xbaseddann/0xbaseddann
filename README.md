@@ -2,7 +2,7 @@
 
 ## Hi there 👋🏻 I'm Dann 🏄🏻‍♂️
 
-### Full Stack Blockchain Engineer <> Indie Developer
+### Full Stack Blockchain Engineer
 
 **Currently my days are devoted to -**
 - ⛏️ Indie building products.
